@@ -1,6 +1,6 @@
 # Cisco AMP for EndPoint
 
 Downloads
-Access to direct final and beta downloads.
+Direct access to final, beta and unrelease downloads.
 + Microsoft Windows
 + Apple macOS
