@@ -1,2 +1,3 @@
 # cisco-amp4e
-Cisco AMP EndPoints
+Cisco AMP for EndPoint
+
