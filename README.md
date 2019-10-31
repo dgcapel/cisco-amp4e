@@ -23,6 +23,7 @@ https://upgrades.eu.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
 
 ## IPTray
 For Microsoft Windows. Run in PowerShell.
+
 Request
 ```
 Get-ItemProperty -Path HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run -name 'Immunet Protect'
