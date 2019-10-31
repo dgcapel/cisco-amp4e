@@ -22,7 +22,7 @@ https://upgrades.eu.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
 ```
 
 ## IPTray
-For Microsoft Windows. Run in PowerShell.
+For Microsoft Windows 10. Run in PowerShell.
 
 Request
 ```
