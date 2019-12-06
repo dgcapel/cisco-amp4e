@@ -1,1 +1,13 @@
-
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11441/upgrade-amp.xml (10/22/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11465/upgrade-amp.xml (11/04/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11466/upgrade-amp.xml (11/06/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11497/upgrade-amp.xml (11/21/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11498/upgrade-amp.xml (11/22/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11500/upgrade-amp.xml (11/26/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11501/upgrade-amp.xml (11/26/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11505/upgrade-amp.xml (11/27/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11507/upgrade-amp.xml (11/28/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11510/upgrade-amp.xml (11/29/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11513/upgrade-amp.xml (12/02/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11514/upgrade-amp.xml (12/02/2019) - OFICIAL
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.1.11515/upgrade-amp.xml (12/03/2019)
