@@ -1,0 +1,2 @@
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.1.11521/upgrade-amp.xml (12/13/2019)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.1.11529/upgrade-amp.xml (12/18/2019)
