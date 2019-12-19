@@ -18,7 +18,9 @@ https://upgrades.eu.amp.cisco.com/fireAMP/windows/6.X.X.XXXXX/Release-Logging/in
 ```
 
 ```
-https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.5.11523/upgrade-amp.xml
+Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.1.5.11523/Release-Logging/installer-univ-tcp.exe
+Hash: 64227721bc766554b935eb034cd44fe3932f3abc4ba9bd078b11f248fc699647
+Date: 12/13/2019
 ```
 
 + Apple macOS
