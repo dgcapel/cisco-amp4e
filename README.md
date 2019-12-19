@@ -10,7 +10,7 @@ Linux CentOS: 1.12.0 Build ?
 ```
 
 ## Downloads
-Direct access to final, beta and unrelease downloads.
+Direct access to final, beta/unrelease downloads.
 
 **Microsoft Windows**
 
