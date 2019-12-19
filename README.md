@@ -17,6 +17,10 @@ https://upgrades.amp.cisco.com/fireAMP/windows/6.X.X.XXXXX/Release-Logging/insta
 https://upgrades.eu.amp.cisco.com/fireAMP/windows/6.X.X.XXXXX/Release-Logging/installer-univ-tcp.exe
 ```
 
+```
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.1.5.11523/upgrade-amp.xml
+```
+
 + Apple macOS
 ```
 https://upgrades.amp.cisco.com/fireAMP/osx/1.1X.X.XXX/upgrade-amp-eu.xml
