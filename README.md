@@ -35,11 +35,19 @@ https://upgrades.amp.cisco.com/fireAMP/osx/1.1X.X.XXX/upgrade-amp-eu.xml
 https://upgrades.eu.amp.cisco.com/fireAMP/osx/1.1X.X.XXX/upgrade-amp-eu.xml
 ```
 
+* Beta
+```
+```
+
 **Linux CentOS 6/7**
 * Stable
 ```
 https://upgrades.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
 https://upgrades.eu.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
+```
+
+* Beta
+```
 ```
 
 ## IPTray
