@@ -11,16 +11,18 @@ Linux CentOS: 1.12.0 Build ?
 
 ## Downloads
 Direct access to final, beta and unrelease downloads.
-+ Microsoft Windows
-```
-https://upgrades.amp.cisco.com/fireAMP/windows/6.X.X.XXXXX/Release-Logging/installer-univ-tcp.exe
-https://upgrades.eu.amp.cisco.com/fireAMP/windows/6.X.X.XXXXX/Release-Logging/installer-univ-tcp.exe
-```
 
+Microsoft Windows
+
+Stable
 ```
 Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.1.5.11523/Release-Logging/installer-univ-tcp.exe
 Hash: 64227721bc766554b935eb034cd44fe3932f3abc4ba9bd078b11f248fc699647
 Date: 12/13/2019
+```
+
+Beta
+```
 ```
 
 + Apple macOS
