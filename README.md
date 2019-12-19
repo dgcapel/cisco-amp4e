@@ -1,9 +1,12 @@
 # Cisco AMP for EndPoints
 Researchs about Cisco Antimalware Software: Cisco AMP for EndPoints (AMP4E).
 
-## Last Versions
+## Current Versions
+Current versions of the software.
 ```
-pending
+Microsoft Windows: 7.1.5 Build 11523
+Apple macOS: 1.12.0 Build ?
+Linux CentOS: 1.12.0 Build ?
 ```
 
 ## Downloads
