@@ -14,14 +14,14 @@ Direct access to final, beta and unrelease downloads.
 
 **Microsoft Windows**
 
-Stable
+* Stable
 ```
 Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.1.5.11523/Release-Logging/installer-univ-tcp.exe
 Hash: 64227721bc766554b935eb034cd44fe3932f3abc4ba9bd078b11f248fc699647
 Date: 12/13/2019
 ```
 
-Beta
+* Beta
 ```
 Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.2.1.11529/Release-Logging/installer-univ-tcp.exe
 Hash: 5a24d51bb86040b4ebed6bb77b3ccb4480df2bb92982b82615b15e9eeac49b3b
@@ -29,12 +29,14 @@ Date: 12/18/2019
 ```
 
 **Apple macOS**
+* Stable
 ```
 https://upgrades.amp.cisco.com/fireAMP/osx/1.1X.X.XXX/upgrade-amp-eu.xml
 https://upgrades.eu.amp.cisco.com/fireAMP/osx/1.1X.X.XXX/upgrade-amp-eu.xml
 ```
 
 **Linux CentOS 6/7**
+* Stable
 ```
 https://upgrades.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
 https://upgrades.eu.amp.cisco.com/fireAMP/linux/1.XX.X.XXX/upgrade-amp-eu.xml
