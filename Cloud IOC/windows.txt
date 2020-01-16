@@ -9,7 +9,10 @@ W32.FindstrSearchForKeyWords.ioc
 W32.InstallCore.ioc
 W32.MSIExecRemoteInstall.ioc
 W32.MSTeamsUpdateAnomalousProcessCreation.ioc
+W32.NetshFirewallDisable.ioc
+W32.NetshFirewallPortForward.ioc
 W32.NetUseWebdav.ioc
+W32.PossibleRansomwareShadowCopyDeletion.ioc
 W32.PowershellDownloadString.ioc
 W32.PowershellEncodedBuffer.ioc
 W32.PowershellLaunchedNetConfig.ioc
