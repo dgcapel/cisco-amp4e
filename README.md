@@ -60,5 +60,5 @@ Get-ItemProperty -Path HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersi
 
 Modification
 ```
-Set-ItemProperty -Path HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run -name 'Immunet Protect' -value '"C:\Program Files\Cisco\AMP\7.1.5\iptray.exe"'
+Set-ItemProperty -Path HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run -name 'Immunet Protect' -value '"C:\Program Files\Cisco\AMP\7.2.5\iptray.exe"'
 ```
