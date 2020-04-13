@@ -1,0 +1,5 @@
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.7.11666/upgrade-amp.xml (03/30/2020)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.7.11667/upgrade-amp.xml (03/30/2020)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.7.11670/upgrade-amp.xml (04/01/2020)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.7.11676/upgrade-amp.xml (04/03/2020)
+https://upgrades.eu.amp.cisco.com/fireAMP/windows/7.2.7.11687/upgrade-amp.xml (04/09/2020)
