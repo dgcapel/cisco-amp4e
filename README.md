@@ -4,7 +4,7 @@ Researchs about Cisco Antimalware Software: Cisco AMP for EndPoints (AMP4E).
 ## Current Versions
 Current versions of the software.
 ```
-Microsoft Windows: 7.1.5 Build 11523
+Microsoft Windows: 7.2.5 Build 11663
 Apple macOS: 1.12.0 Build ?
 Linux CentOS: 1.12.0 Build ?
 ```
@@ -16,9 +16,9 @@ Direct access to final, beta/unrelease downloads.
 
 * Stable
 ```
-Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.1.5.11523/Release-Logging/installer-univ-tcp.exe
-Hash: 64227721bc766554b935eb034cd44fe3932f3abc4ba9bd078b11f248fc699647
-Date: 12/13/2019
+Link: https://upgrades.amp.cisco.com/fireAMP/windows/7.2.5.11663/Release-Logging/installer-univ-tcp.exe
+Hash: 9ea11428cb8f0196cb96aac2b6c9698fb3cbf4deb813f339c78252468abce48e
+Date: 03/27/2020
 ```
 
 * Beta
